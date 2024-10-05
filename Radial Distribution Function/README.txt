@@ -1,5 +1,5 @@
 The radial distribution function (RDF) of a protein in water is a way to show the distribution of water molecules around a protein's atoms.
-The RDF of a protein in water shows the organization of water molecules around the protein's atoms. It can also be used to determine the local density of water.
+The RDF (g(r)) of a protein in water shows the organization of water molecules around the protein's atoms. It can also be used to determine the local density of water.
 It is important for understanding the structure, function, and folding properties of proteins.
 
 #########################################
